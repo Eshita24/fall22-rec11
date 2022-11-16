@@ -12,7 +12,7 @@ import fi.iki.elonen.NanoHTTPD;
 
 public class App extends NanoHTTPD {
 
-    public static void main(String[] args) {
+    public static hello void main(String[] args) {
         try {
             new App();
         } catch (IOException ioe) {
